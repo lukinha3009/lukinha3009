@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**lukinha3009/lukinha3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu perfil :blue_heart
 
-Here are some ideas to get you started:
+Meu nome é Lucas Raimundo
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :mailbox
+
+lucas.raimundo.silva@escola.pr.gov.br
+@lukinha3009
+![descrição do GIF](link GIF do Tenor)
