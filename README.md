@@ -9,5 +9,5 @@ Meu nome é Lucas Raimundo
 ### Você pode entrar em contato comigo :mailbox
 
 lucas.raimundo.silva@escola.pr.gov.br
+
 @lukinha3009
-![descrição do GIF](link GIF do Tenor)
