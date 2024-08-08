@@ -11,4 +11,4 @@ Meu nome é Lucas Raimundo
 lucas.raimundo.silva@escola.pr.gov.br
 
 @lukinha3009
-https://tenor.com/pt-BR/view/evil-laugh-gif-22378372
+
